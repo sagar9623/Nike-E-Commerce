@@ -6,7 +6,7 @@ Welcome to the Nike Store Website project! This project is a simple and responsi
 
 - **Navigation Bar**: Logo, search bar, and category menu items.
 - **Slider**: Dynamic showcase of featured Nike products.
-- **Product Details**: Detailed information, color and size selection.
+- **Product Details**: Detailed information, color, and size selection.
 - **Features Section**: Highlights shipping, return policy, and more.
 - **Gallery**: Images related to the Nike brand.
 - **New Season Arrivals**: Display of new products.
